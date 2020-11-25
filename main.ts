@@ -11,6 +11,9 @@
  * @author [email](1035868977@qq.com)
  * @version  V1.0
  * @date  2018-03-20
+gamePad.onEvent(GamerBitPin.P1, GamerBitEvent.Down, function () {
+    
+})
  */
 
 /**
